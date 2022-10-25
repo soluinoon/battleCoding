@@ -14,4 +14,4 @@ https://docs.google.com/document/d/1L2Okd84xr-SE-fyge3UfzDe1MqmZOxVzqKgfwXpVmqE/
 https://ovenapp.io/view/DYJSNoLE47WEwY6isNO4qsqUDw2opMgq/IZZOE
 
 ### API 명세
-
+![temp_1666669143955 -1167466988 (1)](https://user-images.githubusercontent.com/67910922/197678223-b10d166b-e6e7-49b0-bf74-99b64c1fcd57.png)
